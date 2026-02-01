@@ -4,15 +4,13 @@ I’m an aspiring data analyst with a growing interest in how data can be used t
 I enjoy working with data to uncover patterns, answer questions, and communicate insights clearly. My goal is to build practical, ethical, 
 and well-documented data projects as I grow my skills.
 
-Target Role
-
 Target Role: Data Analyst
 
 I am currently aiming for a data analyst role because it allows me to build a strong foundation in data cleaning, exploration, visualisation, and storytelling. 
 This role aligns with my curiosity about how data is used across industries to explain trends, support strategy, and improve outcomes.
 Right now, my focus is on developing core analytical skills before progressing toward more advanced data science or machine learning roles.
 
-Seed Project Ideas
+#**Seed Project Ideas**
 
 Project Idea 1:
 Analyse a public dataset (such as retail sales or customer transactions) to identify trends, seasonality, and key performance indicators. 
@@ -22,7 +20,7 @@ Project Idea 2:
 Explore a real-world dataset related to public services or social data (e.g. crime, health, or education statistics) to identify patterns and regional differences. 
 This project will emphasise responsible data use and clear communication of findings.
 
-Skills to Grow
+**Skills to Grow**
 
 Technical Skill:
 Python for data analysis (using libraries such as pandas and matplotlib). This skill is essential for a data analyst role and will help me efficiently clean, analyse, and visualise data.
