@@ -28,6 +28,11 @@ Python for data analysis (using libraries such as pandas and matplotlib). This s
 Soft Skill:
 Data communication and storytelling. I want to improve my ability to explain insights clearly to non-technical audiences using visuals and simple language.
 
+Analytical thinking
+Communication of insights
+Problem-solving
+Continuous learning
+
 Goals
 
 30-Day Goal:
